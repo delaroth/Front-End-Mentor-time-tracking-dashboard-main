@@ -181,6 +181,7 @@ color: white;
 
 @media only screen and (max-width:700px) {
     .gridContainer{
+        height: 90vw;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(6, 200px);
         width: 90%;
